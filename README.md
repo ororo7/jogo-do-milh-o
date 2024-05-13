@@ -1,1 +1,1 @@
-# jogo-do-milh-o
+# jogo-do-milhão
